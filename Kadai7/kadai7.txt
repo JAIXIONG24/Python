@@ -1,0 +1,81 @@
+$python3 kadai7.py 
+*********************************************
+XAICHA JAIXIONG, B213379
+日付:  2021-11-23 18:59:51.065166
+内容：文書ベクトルの類似度を用いた文書検索
+*********************************************
+Query ID = 145 class = [19]Subject: Re: Christian Owned Organization list
+--------------------------------------------------
+Rank 1 (1947) 0.941 Subject: Re: Pgp, PEM, and RFC's (Was: Cryptography Patents) class = [11]
+Rank 2 (1673) 0.940 Subject: Re: ADB woes class = [4]
+Rank 3 (204) 0.940 Subject: Re: Christian Owned Organization list class = [19]
+Rank 4 (1216) 0.939 Subject: Re: some thoughts. class = [0]
+Rank 5 (309) 0.937 Subject: Re: ATF BURNS DIVIDIAN RANCH! NO SURVIVORS!!! class = [16]
+Rank 6 (1629) 0.937 Subject: Re: 68040 Specs. class = [4]
+Rank 7 (1377) 0.937 Subject: Re: Where can I buy a BIOS? class = [3]
+Rank 8 (983) 0.936 Subject: Re: Please Gentlemen class = [8]
+Rank 9 (252) 0.934 Subject: Re: Is it good that Jesus died? class = [19]
+Rank 10 (393) 0.931 Subject: Re: Who's next?  Mormons and Jews? class = [16]
+同じクラスがランク10位までに見つかった割合 =  20.0 %
+**************************************************
+
+Query ID = 252 class = [18]Subject: Re: Why not concentrate on child molesters?
+--------------------------------------------------
+Rank 1 (1749) 0.944 Subject: Re: Wanted: Trombone for a beginner class = [6]
+Rank 2 (1874) 0.939 Subject: Re: Divine providence vs. Murphy's Law class = [15]
+Rank 3 (378) 0.936 Subject: Re: The Cold War: Who REALLY Won? class = [16]
+Rank 4 (908) 0.935 Subject: Re: Shaft-drives and Wheelies class = [8]
+Rank 5 (418) 0.932 Subject: Re: electronic parts in NYC? class = [12]
+Rank 6 (1176) 0.930 Subject: Re: The Evidence class = [18]
+Rank 7 (1193) 0.930 Subject: Re: Why not concentrate on child molesters? class = [18]
+Rank 8 (425) 0.928 Subject: Re: Lead Acid batteries & Concrete? class = [12]
+Rank 9 (1249) 0.928 Subject: Re: university violating separation of church/state? class = [0]
+Rank 10 (284) 0.928 Subject: Evolution as Fact and Theory class = [19]
+同じクラスがランク10位までに見つかった割合 =  20.0 %
+**************************************************
+
+Query ID = 371 class = [9]Subject: Re: Best Homeruns
+--------------------------------------------------
+Rank 1 (626) 0.945 Subject: Re: Where's Roger? class = [10]
+Rank 2 (31) 0.934 Subject: Re: Early BBDDD Returns? class = [9]
+Rank 3 (79) 0.933 Subject: Re: A true story - Way to go Omar class = [9]
+Rank 4 (88) 0.932 Subject: Re: Players Rushed to Majors class = [9]
+Rank 5 (93) 0.928 Subject: Re: Torre: The worst manager? class = [9]
+Rank 6 (43) 0.928 Subject: Re: The Babe v. The Pride of the Yankees class = [9]
+Rank 7 (928) 0.927 Subject: Re: Drinking and Riding (eww, gross) class = [8]
+Rank 8 (54) 0.926 Subject: Re: Tickets etc.. class = [9]
+Rank 9 (84) 0.925 Subject: Re: NL vs. AL? class = [9]
+Rank 10 (91) 0.925 Subject: Re: quick way to tell if your local beat writer is dumb. class = [9]
+同じクラスがランク10位までに見つかった割合 =  80.0 %
+**************************************************
+
+Query ID = 150 class = [16]Subject: Re: Insane Gun-toting Wackos Unite!!!
+--------------------------------------------------
+Rank 1 (1102) 0.927 Subject: Re: Swimming pool defense class = [18]
+Rank 2 (238) 0.924 Subject: Re: Rosicrucian Order(s) ?! class = [19]
+Rank 3 (882) 0.923 Subject: Re: Boom!  Whoosh...... class = [14]
+Rank 4 (391) 0.923 Subject: Re: With Friends Like These -- L. Neil Smith class = [16]
+Rank 5 (350) 0.923 Subject: Re: Community Spirited Drug Dealers (Was: Strippers...) class = [16]
+Rank 6 (387) 0.922 Subject: Re: ATF BURNS DIVIDIAN RANCH! NO SURVIVORS!!! class = [16]
+Rank 7 (1664) 0.921 Subject: Re: Monitors - should they be kept on 24 hours a day??? class = [4]
+Rank 8 (280) 0.920 Subject: Re: Biblical Backing of Koresh's 3-02 Tape (Cites enclosed) class = [19]
+Rank 9 (1108) 0.920 Subject: Re: MOW BODYCOUNT class = [18]
+Rank 10 (844) 0.919 Subject: Re: Did any DC-X gifs show up? class = [14]
+同じクラスがランク10位までに見つかった割合 =  30.0 %
+**************************************************
+
+Query ID = 89 class = [19]Subject: A TREATISE ON THE MIRACLES OF MUHAMMAD SAW, PART-2
+--------------------------------------------------
+Rank 1 (1801) 0.936 Subject: Re: The arrogance of Christians class = [15]
+Rank 2 (236) 0.934 Subject: Re: Clarification of personal position (Jesus and the Law) class = [19]
+Rank 3 (1868) 0.932 Subject: Re: Sabbath Admissions 5of5 class = [15]
+Rank 4 (1872) 0.932 Subject: Does God love you? class = [15]
+Rank 5 (1879) 0.931 Subject: THE EMPTY TOMB... class = [15]
+Rank 6 (264) 0.929 Subject: Re: Christians above the Law? was Clarification of pe class = [19]
+Rank 7 (211) 0.929 Subject: Re: Is it good that Jesus died? class = [19]
+Rank 8 (1840) 0.929 Subject: Re: The doctrine of Original Sin class = [15]
+Rank 9 (243) 0.926 Subject: Re: A KIND and LOVING God!! class = [19]
+Rank 10 (241) 0.926 Subject: A TREATISE ON THE MIRACLES OF MUHAMMAD, PART-3 class = [19]
+同じクラスがランク10位までに見つかった割合 =  50.0 %
+**************************************************
+
